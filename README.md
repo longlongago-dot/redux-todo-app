@@ -4,9 +4,13 @@
 Redux（Redux Toolkit）を使ったTodoアプリ
 
 使用技術
+
 ・Redux
+
 ・useEffect
+
 ・LocalStrage
 
 アイコン
+
 ・font-awesomeのCDNを使用
